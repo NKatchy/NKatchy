@@ -11,5 +11,5 @@
 - **Exam Prep:** 現在、基本情報技術者試験（FE）に向けて勉強中！
 
 ## Kaggle Activity
-- [Hull Tactical - Market Prediction]
+- Hull Tactical - Market Prediction
 - Heart Disease Prediction
